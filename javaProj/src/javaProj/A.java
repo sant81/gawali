@@ -2,7 +2,7 @@ package javaProj;
 
 public class A {
 
-	public () {
+	public A() {
 		// TODO  constructor stub
 	}
 
